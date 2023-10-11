@@ -1,0 +1,37 @@
+[35m[Appium][39m Welcome to Appium v1.22.3
+[35m[Appium][39m Non-default server args:
+[35m[Appium][39m   port: 62681
+[35m[Appium][39m   loglevel: info
+[35m[Appium][39m   tmpDir: /var/folders/r3/k9x7h9rx01b1xy1sk2xl2xsw0000gn/T//Katalon/Appium/Temp1665687120081
+[35m[Appium][39m   chromedriverPort: 62682
+[35m[Appium][39m Deprecated server args:
+[35m[Appium][39m   [31m--chromedriver-port[39m => --default-capabilities
+[35m[Appium][39m Default capabilities, which will be added to each request unless overridden by desired capabilities:
+[35m[Appium][39m   chromedriverPort: 62682
+[35m[Appium][39m Appium REST http interface listener started on 0.0.0.0:62681
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/status[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[HTTP][39m [37m<-- GET /wd/hub/status [39m[32m200[39m [90m10 ms - 68[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/status[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[HTTP][39m [37m<-- GET /wd/hub/status [39m[32m200[39m [90m17 ms - 68[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/wd/hub/session[39m
+[35m[HTTP][39m [90m{"desiredCapabilities":{"app":"/Applications/Appium Server GUI.app","noReset":true,"deviceName":"PUSPA’s iPhone","fullReset":false,"wdaLocalPort":62691,"newCommandTimeout":1800,"realDeviceLogger":"/Applications/Katalon Studio.app/Contents/Eclipse/configuration/resources/tools/deviceconsole","platformVersion":"16.0","automationName":"XCUITest","waitForAppScript":"true;","platformName":"iOS","udid":"00008030-000479CA36C2802E"},"capabilities":{"firstMatch":[{"appium:app":"/Applications/Appium Server GUI.app","appium:automationName":"XCUITest","appium:deviceName":"PUSPA’s iPhone","appium:fullReset":false,"appium:newCommandTimeout":1800,"appium:noReset":true,"platformName":"ios","appium:platformVersion":"16.0","realDeviceLogger":"/Applications/Katalon Studio.app/Contents/Eclipse/configuration/resources/tools/deviceconsole","appium:udid":"00008030-000479CA36C2802E","appium:waitForAppScript":"true;","appium:wdaLocalPort":62691}]}}[39m
+[35m[BaseDriver][39m The following capabilities are not standard capabilities and should have an extension prefix:
+[35m[BaseDriver][39m   realDeviceLogger
+[35m[BaseDriver][39m   chromedriverPort
+[35m[Appium][39m Appium v1.22.3 creating new XCUITestDriver (v3.59.0) session
+[35m[BaseDriver][39m The following capabilities were provided, but are not recognized by Appium:
+[35m[BaseDriver][39m   realDeviceLogger
+[35m[BaseDriver][39m   chromedriverPort
+[35m[BaseDriver][39m   waitForAppScript
+[35m[BaseDriver][39m Session created with session id: 31cba26e-fddf-4d53-869f-d707ffe0fc3c
+[35m[XCUITest][39m Determining device to run tests on: udid: '00008030-000479CA36C2802E', real device: true
+[35m[BaseDriver][39m Using local app '/Applications/Appium Server GUI.app'
+[35m[DevCon Factory][39m Releasing connections for 00008030-000479CA36C2802E device on any port number
+[35m[DevCon Factory][39m No cached connections have been found
+[35m[HTTP][39m [37m<-- POST /wd/hub/session [39m[31m500[39m [90m386 ms - 763[39m
+[35m[HTTP][39m [90[35m[A[35m[Appium][39m Received SIGTERM - shutting down
+eived SIGTERM - shutting down

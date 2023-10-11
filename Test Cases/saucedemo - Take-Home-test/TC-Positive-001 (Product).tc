@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can see detail information of a product</description>
+   <name>TC-Positive-001 (Product)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bea495cf-8702-410e-b61a-b49264d7370d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can not checkout the shopping cart without fill the user information</description>
+   <name>TC-Negative-002 (CheckOut)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f23db3b-ace6-4b2d-9909-3b961c9c0572</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can login with valid credential</description>
+   <name>TC-Positive-001 (Login)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4056c98-a23d-4d15-8356-9f3ee3baf233</testCaseGuid>
+</TestCaseEntity>

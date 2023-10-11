@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can not login with invalid credentials</description>
+   <name>TC-Negative-002 (Login)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ebe9ca29-8c83-4916-8f89-e3f2b9797d30</testCaseGuid>
+</TestCaseEntity>
